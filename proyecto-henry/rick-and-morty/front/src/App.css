@@ -1,0 +1,9 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+ text-align: center;
+  background-image: url('./images/paul-volkmer-qVotvbsuM_c-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
